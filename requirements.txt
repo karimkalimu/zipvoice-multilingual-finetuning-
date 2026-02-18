@@ -1,0 +1,20 @@
+--extra-index-url https://k2-fsa.github.io/icefall/piper_phonemize.html
+gradio>=5.0
+torch
+torchaudio
+torchcodec==0.10.*
+onnxruntime
+numpy
+pydub
+huggingface_hub
+safetensors
+lhotse
+vocos
+jieba
+pypinyin
+piper_phonemize
+sentencepiece
+cn2an
+inflect
+tensorboard
+
