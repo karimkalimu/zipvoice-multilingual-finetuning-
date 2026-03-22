@@ -7,7 +7,7 @@ _Generated: 2026-02-17T19:42:17_
 | --- | --- |
 | asr_language | hr |
 | asr_model_id | openai/whisper-large-v3-turbo |
-| checkpoint_path | exp/zipvoice_sr/epoch-15-avg-4.pt |
+| checkpoint_path | exp/zipvoice_sr/epoch-15-avg-4.safetensors |
 | dataset_tsv | data/raw/juznevesti_dev.tsv |
 | espeak_lang | sr |
 | lang | sr |

@@ -24,7 +24,7 @@ Evaluate local ZipVoice checkpoints on TSV datasets prepared by:
  python evaluate_model.py \
   --dataset-tsv data/raw/juznevesti_dev.tsv \
   --lang sr \
-  --checkpoint-path exp/zipvoice_sr/epoch-15-avg-4.pt \
+  --checkpoint-path exp/zipvoice_sr/epoch-15-avg-4.safetensors \
   --model-dir exp/zipvoice_sr \
   --model-type zipvoice \
   --tokenizer espeak \

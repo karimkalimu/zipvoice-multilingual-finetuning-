@@ -23,11 +23,6 @@ Base model used in this project: **ZipVoice**.
 
 - GitHub: https://github.com/k2-fsa/ZipVoice
 
-This repository includes:
-- model training/evaluation scripts
-- a Gradio inference app (`app.py`)
-- Hugging Face Space-compatible setup (`requirements.txt`, `packages.txt`, README front matter)
-
 ## Hugging Face Model Links (Quick Access)
 
 Demo page:
